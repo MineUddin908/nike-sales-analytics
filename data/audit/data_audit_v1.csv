@@ -1,0 +1,17 @@
+Check,Count
+Total Rows,2500
+Total Columns,13
+Missing Order_ID,0
+Missing Region,0
+Missing Product_Line,0
+Missing Sales_Channel,0
+Missing Gender_Category,0
+Missing Units_Sold,1235
+Missing MRP,1254
+Missing Discount_Applied,1668
+Missing Revenue,0
+Missing Profit,0
+Duplicate Order_ID,114
+Negative Units,205
+Discount > 1,180
+Negative Revenue,53

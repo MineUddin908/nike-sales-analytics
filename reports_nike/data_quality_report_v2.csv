@@ -1,0 +1,18 @@
+Metric,Count
+Total Rows,2500
+Valid Rows,1777
+Warning Rows,107
+Rejected Rows,616
+Missing Units After V1,0
+Missing MRP After V1,0
+Missing Discount After V1,0
+Missing Order Date After V1,616
+Invalid Units,0
+Invalid MRP,0
+Invalid Discount,0
+Negative Revenue,0
+Revenue Mismatch,2383
+Duplicate Order ID,155
+Units Imputed in V1,1235
+MRP Imputed in V1,1254
+Discount Imputed in V1,1668

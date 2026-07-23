@@ -1,0 +1,11 @@
+Metric,Count
+Total rows,2500
+Duplicate full rows,0
+Rows with duplicate Order_ID,155
+Original missing units,1235
+Original invalid units,429
+Original missing MRP,1254
+Original missing discount,1668
+Original invalid discount,180
+Missing or invalid dates,616
+Revenue mismatches,2383
